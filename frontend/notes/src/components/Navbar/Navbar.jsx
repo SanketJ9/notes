@@ -22,7 +22,7 @@ const Navbar = () => {
 
   return (
     <div className='navbar bg-light dark:bg-dark flex items-center justify-between px-6 py-2 drop-shadow-md'>
-        <h2 className='text-4xl font-medium text-black py-2 dark:text-white'>Notes</h2>
+        <h2 className='text-4xl font-medium text-black py-2 dark:text-white'>Noted</h2>
 
         <SearchBar 
         
